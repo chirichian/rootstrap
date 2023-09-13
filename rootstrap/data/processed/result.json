@@ -1,0 +1,1 @@
+{"arima": {"r2_score": 0.8861140989456361}, "holt": {"r2_score": 0.8409404980917317}, "best_model": "arima"}
